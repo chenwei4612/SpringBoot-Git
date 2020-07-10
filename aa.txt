@@ -1,2 +1,3 @@
 sasasdasds
 陈玮
+熟悉java，使用过mvc，ssm框架，会使用eclipse、idea、mysql、git工具
